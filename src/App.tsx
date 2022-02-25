@@ -1,8 +1,9 @@
+import { TheLayout } from "./views/pages/TheLayout";
 
 function App() {
   return (
-    <div >
-      
+    <div>
+      <TheLayout />
     </div>
   );
 }
